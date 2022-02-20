@@ -117,6 +117,33 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Larry2",
+      "species": "lazy",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Tree Jaguar",
+      "species": "Feline",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "roof cricket",
+      "species": "insect",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
